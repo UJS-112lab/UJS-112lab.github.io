@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   A lab from UJS, interested in computer vision & computer graphics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ujs-112lab.github.io'
+url: 'https://ujs-112lab.github.io/'
 
 github:
   username: UJS-112lab             # change to your github username
